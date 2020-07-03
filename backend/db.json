@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rápido e Devagar - Daniel Kahneman",
+      "price": 54.6
+    },
+    {
+      "id": 2,
+      "name": "Sapiens: Uma Brever História do Tempo - Yuval Harari",
+      "price": 49.56
+    },
+    {
+      "id": 3,
+      "name": "O Novo Iluminismo - Steve Pinker",
+      "price": 57.8
+    },
+    {
+      "id": 4,
+      "name": "Moneyball - Michael Lews",
+      "price": 32.45
+    },
+    {
+      "id": 5,
+      "name": "A Startup Enxuta - Eric Ries",
+      "price": 29.9
+    },
+    {
+      "name": "A Arte da Guerra - Sun Tzu",
+      "price": 18.5,
+      "id": 8
+    },
+    {
+      "name": "Bilionários Por Acaso - Ben Mezrich",
+      "price": "33.60",
+      "id": 9
+    },
+    {
+      "name": "O Primo Basilio - Eça de Queiroz",
+      "price": "72.66",
+      "id": 11
+    }
+  ]
+}
