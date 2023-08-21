@@ -1,11 +1,10 @@
 # CRUD-Product
-Aplicação para cadastro de produtos e preço.<br>
-
-Projeto desenvolvido com o objetivo de aprender e aprimorar Angular 9 e Material Design.
+Projeto desenvolvido no curso de Angular 9 da plataforma Coder. 
+Aplicação contempla um cadastro de produto para aprendizagem das principais funcionalidades do Angular.
 
 :uk: :us: <br>
-Product and Price Registration Application.<br>
+This project was developed during the Angular 9 course on the Coder platform. The application includes a product registration feature designed to facilitate the learning of key Angular functionalities.<br>
 
-This project was developed with the goal of learning and enhancing Angular 9 and Material Design skills.
+
 
 
